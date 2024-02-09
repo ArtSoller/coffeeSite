@@ -21,3 +21,6 @@ This site could help future baristas memorize the composition and proportions of
 
 ### Examples of site work
 ![1](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_1.png)
+![2](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_2.png)
+![3](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_3.png)
+![4](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_4.png)
