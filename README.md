@@ -4,8 +4,9 @@
 ## Computer science student, web programmer. This is my repository ***coffeeSite***
 ### My technology stack for that project
 <p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-thebadge&logo=html5" height="32"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-thebadge&logo=javascript" height="32"/>
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-thebadge&logo=css3" height="32"/>
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-thebadge&logo=html5" height="32"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-thebadge&logo=javascript" height="32"/>
 </p>
 
 ### Purpose of writing this project
