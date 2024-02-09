@@ -12,7 +12,7 @@
 Learn the theory behind the JavaScript programming language and its applications
 
 ### Tasks of writing this project
- - [X] Familiarize myself with the JavaScript programming language
+ - [&#x2611;] Familiarize myself with the JavaScript programming language
  - [X] Come up with and develop a website with animation
 
 ### What the project does
