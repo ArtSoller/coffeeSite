@@ -12,8 +12,8 @@
 Learn the theory behind the JavaScript programming language and its applications
 
 ### Tasks of writing this project
-- [X] Familiarize myself with the JavaScript programming language
-- [X] Come up with and develop a website with animation
+ - [X] Familiarize myself with the JavaScript programming language
+ - [X] Come up with and develop a website with animation
 
 ### What the project does
 This site offers the user a choice of several types of coffee, after selecting which - shows the composition of this coffee in proportions.
